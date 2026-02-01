@@ -52,7 +52,7 @@ The goal of this project is to:
 ---
 
 ### Attrition by Age Group
-![Attrition by Age](Images/Attrition_Age.png)
+![Attrition by Age](https://github.com/Tejas2906/HR-Analytics-Dashboard/blob/984a86c2f57de03ad52ddff0162c80c8f52a6dc8/Dashboard%20Images/Attrition%20%20y%20age%20group%20.jpg)
 
 - Highest attrition in **26–35 age group**
 - Indicates early to mid-career employees are more likely to leave
