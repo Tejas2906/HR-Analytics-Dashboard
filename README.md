@@ -36,7 +36,7 @@ The goal of this project is to:
 ## Dashboard Sections & Insights
 
 ### Attrition by Gender
-![Attrition by Gender](Images/Attrition_Gender.png)
+![Attrition by Gender](https://github.com/Tejas2906/HR-Analytics-Dashboard/blob/8047377cd3bbae299856f102fd2053faae05f2a5/Dashboard%20Images/Attrition%20By%20Gender.jpg)
 
 - Higher attrition observed among **male employees**
 - Useful for gender-based workforce analysis
