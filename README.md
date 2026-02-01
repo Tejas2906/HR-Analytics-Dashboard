@@ -1,4 +1,3 @@
-# HR-Analytics-Dashboard
 # HR Analytics Dashboard | Power BI
 
 An interactive **HR Analytics Dashboard** created using **Power BI** to analyze employee attrition patterns and workforce metrics.  
@@ -60,7 +59,7 @@ The goal of this project is to:
 ---
 
 ### Attrition by Salary Range
-![Attrition by Salary](Images/Attrition_Salary.png)
+![Attrition by Salary]([Images/Attrition_Salary.png](https://github.com/Tejas2906/HR-Analytics-Dashboard/blob/4190cec72f94782662c75c313b995450da24ab92/Dashboard%20Images/Attrition%20by%20salary.jpg))
 
 - Majority of attrition occurs in the **lower salary band (Up to 5K)**
 - Strong correlation between compensation and employee retention
@@ -98,6 +97,3 @@ The goal of this project is to:
   - Creating calculated measures using DAX
 
 ---
-
-## Repository Structure
-
