@@ -59,7 +59,7 @@ The goal of this project is to:
 ---
 
 ### Attrition by Salary Range
-![Attrition by Salary]([Images/Attrition_Salary.png](https://github.com/Tejas2906/HR-Analytics-Dashboard/blob/4190cec72f94782662c75c313b995450da24ab92/Dashboard%20Images/Attrition%20by%20salary.jpg))
+![Attrition by Salary](https://github.com/Tejas2906/HR-Analytics-Dashboard/blob/4190cec72f94782662c75c313b995450da24ab92/Dashboard%20Images/Attrition%20by%20salary.jpg))
 
 - Majority of attrition occurs in the **lower salary band (Up to 5K)**
 - Strong correlation between compensation and employee retention
@@ -67,7 +67,7 @@ The goal of this project is to:
 ---
 
 ### Attrition by Job Role
-![Attrition by Job Role](Images/Attrition_JobRole.png)
+![Attrition by Job Role](https://github.com/Tejas2906/HR-Analytics-Dashboard/blob/efec09a321fc0bf8b60a5e9bdc4313b329522123/Dashboard%20Images/Attrition%20by%20job%20role%20.jpg)
 
 - **Laboratory Technicians** and **Sales Executives** have the highest attrition
 - Highlights roles requiring improved engagement strategies
