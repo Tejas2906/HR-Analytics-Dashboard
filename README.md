@@ -18,7 +18,7 @@ The goal of this project is to:
 
 ## Dashboard Overview
 
-![Dashboard Overview](Images/Dashboard_Overview.png)
+![Dashboard Overview](https://github.com/Tejas2906/HR-Analytics-Dashboard/blob/787de05b4b393271484cfa92da9bfcf3a0d4206f/Dashboard%20Images/Dashboard.jpg)
 
 ---
 
