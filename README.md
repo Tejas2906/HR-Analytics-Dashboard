@@ -85,7 +85,7 @@ The goal of this project is to:
 
 ## Dataset Information
 
-- Source: HR Analytics dataset (CSV format)
+- Source: HR Analytics dataset(https://github.com/Tejas2906/HR-Analytics-Dashboard/blob/2489be9bb03402e0ebee32f78d52bbe4b7879551/HR_Analytics.csv)
 - Data includes:
   - Employee demographics
   - Salary details
