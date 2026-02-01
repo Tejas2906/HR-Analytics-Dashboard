@@ -44,7 +44,7 @@ The goal of this project is to:
 ---
 
 ### Attrition by Education
-![Attrition by Education](Images/Attrition_Education.png)
+![Attrition by Education](https://github.com/Tejas2906/HR-Analytics-Dashboard/blob/fc256e9cf50beeedda2ddf4773157c6cbae32dd2/Dashboard%20Images/Attrition%20by%20education.jpg)
 
 - Employees with **Life Sciences and Medical** backgrounds show higher attrition
 - Helps HR teams focus retention efforts
